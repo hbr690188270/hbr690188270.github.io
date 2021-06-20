@@ -1,0 +1,17 @@
+papers:
+
+  - title: "OpenAttack: An Open-source Textual Adversarial Attack Toolkit"
+    authors: "Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, <b>Bairu Hou</b>, Yuan Zang, Zhiyuan Liu, Maosong Sun"
+    venue: "ACL'21: Annual Meeting of the Association for Computational Linguistics"
+    selected: y
+
+  - title: "Try to Substitute: An Unsupervised Chinese Word Sense Disambiguation Method Based on HowNet"
+    authors: "<b>Bairu Hou</b>, Fanchao Qi, Yuan Zang, Xurui Zhang, Zhiyuan Liu, Maosong Sun"
+    venue: "COLING'20: International Conference on Computational Linguistics"
+    selected: y
+
+  - title: "Learning to Attack: Towards Textual Adversarial Attacking in Real-world Situations"
+    authors: "Yuan Zang, <b>Bairu Hou</b>, Fanchao Qi, Zhiyuan Liu, Xiaojun Meng, Maosong Sun"
+    venue: "Arxiv"
+    selected: y
+
