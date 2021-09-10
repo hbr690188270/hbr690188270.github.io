@@ -1,13 +1,17 @@
 experiences:
+- place: "UC Santa Barbara"
+  time: "2021 - now"
+  title: "Ph.D. Student"
+  category: "school"
 
 - place: "THUNLP Group"
-  time: "2018 - now"
+  time: "2018 - 2021"
   title: "Research Assistant"
   subtitle: "Beijing, China"
   category: "school"
 
 - place: "Tsinghua University"
-  time: "2017 - now"
+  time: "2017 - 2021"
   title: "B.S. Student"
   subtitle: "School of Economics and Management"
   category: "school"
