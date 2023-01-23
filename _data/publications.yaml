@@ -1,4 +1,13 @@
 papers:
+  - title: "PromptBoosting: Black-Box Text Classification with Ten Forward Passes"
+    authors: "Bairu Hou, Joe O'Connor, Jacob Andreas, Shiyu Chang, Yang Zhang"
+    venue: "Arxiv"
+    selected: y
+
+  - title: "TextGrad: Advancing Robustness Evaluation in NLP by Gradient-Driven Optimization"
+    authors: "Bairu Hou, Jinghan Jia, Yihua Zhang, Guanhua Zhang, Yang Zhang, Sijia Liu, Shiyu Chang"
+    venue: "ICLR'23: International Conference on Learning Representations"
+    selected: y
 
   - title: "OpenAttack: An Open-source Textual Adversarial Attack Toolkit"
     authors: "Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, <b>Bairu Hou</b>, Yuan Zang, Zhiyuan Liu, Maosong Sun"
