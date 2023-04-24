@@ -1,7 +1,12 @@
 papers:
+  - title: "Improving Diffusion Models for Scene Text Editing with Dual Encoders"
+    authors: "Jiabao Ji, Guanhua Zhang, Zhaowen Wang, Bairu Hou, Zhifei Zhang, Brian Price, Shiyu Chang"
+    venue: "Arxiv"
+    selected: y
+
   - title: "PromptBoosting: Black-Box Text Classification with Ten Forward Passes"
     authors: "Bairu Hou, Joe O'Connor, Jacob Andreas, Shiyu Chang, Yang Zhang"
-    venue: "Arxiv"
+    venue: "ICML'23: International Conference on Machine Learning"
     selected: y
 
   - title: "TextGrad: Advancing Robustness Evaluation in NLP by Gradient-Driven Optimization"
