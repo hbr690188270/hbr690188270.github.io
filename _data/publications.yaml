@@ -1,31 +1,42 @@
 papers:
   - title: "Improving Diffusion Models for Scene Text Editing with Dual Encoders"
-    authors: "Jiabao Ji, Guanhua Zhang, Zhaowen Wang, Bairu Hou, Zhifei Zhang, Brian Price, Shiyu Chang"
+    authors: "Jiabao Ji, Guanhua Zhang, Zhaowen Wang, <b>Bairu Hou</b>, Zhifei Zhang, Brian Price, Shiyu Chang"
     venue: "Arxiv"
+    paper_pdf: "https://arxiv.org/abs/2304.05568"
+    code: "https://github.com/UCSB-NLP-Chang/DiffSTE"
     selected: y
 
   - title: "PromptBoosting: Black-Box Text Classification with Ten Forward Passes"
-    authors: "Bairu Hou, Joe O'Connor, Jacob Andreas, Shiyu Chang, Yang Zhang"
+    authors: "<b>Bairu Hou</b>, Joe O'Connor, Jacob Andreas, Shiyu Chang, Yang Zhang"
     venue: "ICML'23: International Conference on Machine Learning"
+    paper_pdf: "https://arxiv.org/abs/2212.09257"
+    code: "https://github.com/UCSB-NLP-Chang/PromptBoosting"
     selected: y
 
   - title: "TextGrad: Advancing Robustness Evaluation in NLP by Gradient-Driven Optimization"
-    authors: "Bairu Hou, Jinghan Jia, Yihua Zhang, Guanhua Zhang, Yang Zhang, Sijia Liu, Shiyu Chang"
+    authors: "<b>Bairu Hou</b>, Jinghan Jia, Yihua Zhang, Guanhua Zhang, Yang Zhang, Sijia Liu, Shiyu Chang"
     venue: "ICLR'23: International Conference on Learning Representations"
+    paper_pdf: "https://arxiv.org/abs/2212.09254"
+    code: "https://github.com/UCSB-NLP-Chang/TextGrad"
     selected: y
 
   - title: "OpenAttack: An Open-source Textual Adversarial Attack Toolkit"
     authors: "Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, <b>Bairu Hou</b>, Yuan Zang, Zhiyuan Liu, Maosong Sun"
     venue: "ACL'21: Annual Meeting of the Association for Computational Linguistics"
+    paper_pdf: "https://arxiv.org/abs/2009.09191"
+    code: "https://github.com/thunlp/OpenAttack"
     selected: y
 
   - title: "Try to Substitute: An Unsupervised Chinese Word Sense Disambiguation Method Based on HowNet"
     authors: "<b>Bairu Hou</b>, Fanchao Qi, Yuan Zang, Xurui Zhang, Zhiyuan Liu, Maosong Sun"
     venue: "COLING'20: International Conference on Computational Linguistics"
+    paper_pdf: "https://aclanthology.org/2020.coling-main.155/"
+    code: "https://github.com/thunlp/sememewsd"
     selected: y
 
   - title: "Learning to Attack: Towards Textual Adversarial Attacking in Real-world Situations"
     authors: "Yuan Zang<sup>‡</sup>, <b>Bairu Hou</b><sup>‡</sup>, Fanchao Qi<sup>‡</sup>, Zhiyuan Liu, Xiaojun Meng, Maosong Sun"
     venue: "Arxiv"
+    paper_pdf: "https://arxiv.org/abs/2009.09192"
     selected: y
 
