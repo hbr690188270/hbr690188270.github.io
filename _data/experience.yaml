@@ -5,6 +5,11 @@ experiences:
   category: "school"
 
 - place: "MIT-IBM Watson AI Lab"
+  time: "2023 Summer"
+  title: "Research Intern"
+  category: "work"
+
+- place: "MIT-IBM Watson AI Lab"
   time: "2022 Summer"
   title: "Research Intern"
   category: "work"
