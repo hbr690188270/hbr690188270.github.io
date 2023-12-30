@@ -1,4 +1,12 @@
 papers:
+  - title: "Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling"
+    authors: "<b>Bairu Hou</b>, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang, Yang Zhang"
+    venue: "Arxiv"
+    paper_pdf: "https://arxiv.org/abs/2311.08718"
+    code: "https://github.com/UCSB-NLP-Chang/llm_uncertainty"
+    selected: y
+
+papers:
   - title: "Certified Robustness for Large Language Models with Self-Denoising"
     authors: "Zhen Zhang, Guanhua Zhang, <b>Bairu Hou</b>, Wenqi Fan, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang"
     venue: "Arxiv"
