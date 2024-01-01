@@ -6,7 +6,6 @@ papers:
     code: "https://github.com/UCSB-NLP-Chang/llm_uncertainty"
     selected: y
 
-papers:
   - title: "Certified Robustness for Large Language Models with Self-Denoising"
     authors: "Zhen Zhang, Guanhua Zhang, <b>Bairu Hou</b>, Wenqi Fan, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang"
     venue: "Arxiv"
