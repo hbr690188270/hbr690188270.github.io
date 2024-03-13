@@ -1,4 +1,11 @@
 papers:
+  - title: "Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing"
+    authors: "Jiabao Ji<sup>‡</sup>, <b>Bairu Hou</b><sup>‡</sup>, Alexander Robey<sup>‡</sup>, George J Pappas, Hamed Hassani, Yang Zhang, Eric Wong, Shiyu Chang"
+    venue: "Arxiv"
+    paper_pdf: "https://arxiv.org/abs/2311.08718"
+    code: "https://github.com/UCSB-NLP-Chang/llm_uncertainty"
+    selected: y
+
   - title: "Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling"
     authors: "<b>Bairu Hou</b>, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang, Yang Zhang"
     venue: "Arxiv"
@@ -8,14 +15,14 @@ papers:
 
   - title: "Certified Robustness for Large Language Models with Self-Denoising"
     authors: "Zhen Zhang, Guanhua Zhang, <b>Bairu Hou</b>, Wenqi Fan, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang"
-    venue: "Arxiv"
+    venue: "NAACL'24"
     paper_pdf: "https://arxiv.org/abs/2307.07171"
     code: "https://github.com/UCSB-NLP-Chang/SelfDenoise"
     selected: y
 
   - title: "Improving Diffusion Models for Scene Text Editing with Dual Encoders"
     authors: "Jiabao Ji, Guanhua Zhang, Zhaowen Wang, <b>Bairu Hou</b>, Zhifei Zhang, Brian Price, Shiyu Chang"
-    venue: "Arxiv"
+    venue: "TMLR: Transactions on Machine Learning Research"
     paper_pdf: "https://arxiv.org/abs/2304.05568"
     code: "https://github.com/UCSB-NLP-Chang/DiffSTE"
     selected: y
