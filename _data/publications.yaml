@@ -14,7 +14,7 @@ papers:
     selected: y
 
   - title: "Advancing the Robustness of Large Language Models through Self-Denoised Smoothing"
-    authors: "Jiabao Ji, <b>Bairu Hou</b>, Zhen Zhang, Guanhua Zhang, Wenqi Fan, Qing Li, Yang Zhang, Gaowen Liu, Sijia Liu, Shiyu Chang"
+    authors: "Jiabao Ji<sup>‡</sup>, <b>Bairu Hou</b><sup>‡</sup>, Zhen Zhang<sup>‡</sup>, Guanhua Zhang<sup>‡</sup>, Wenqi Fan, Qing Li, Yang Zhang, Gaowen Liu, Sijia Liu, Shiyu Chang"
     venue: "NAACL'24"
     paper_pdf: "https://arxiv.org/abs/2404.12274"
     code: "https://github.com/UCSB-NLP-Chang/SelfDenoise"
