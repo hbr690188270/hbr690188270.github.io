@@ -2,8 +2,8 @@ papers:
   - title: "Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing"
     authors: "Jiabao Ji<sup>‡</sup>, <b>Bairu Hou</b><sup>‡</sup>, Alexander Robey<sup>‡</sup>, George J Pappas, Hamed Hassani, Yang Zhang, Eric Wong, Shiyu Chang"
     venue: "Arxiv"
-    paper_pdf: "https://arxiv.org/abs/2311.08718"
-    code: "https://github.com/UCSB-NLP-Chang/llm_uncertainty"
+    paper_pdf: "https://arxiv.org/abs/2402.16192"
+    code: "https://github.com/UCSB-NLP-Chang/SemanticSmooth"
     selected: y
 
   - title: "Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling"
@@ -13,10 +13,10 @@ papers:
     code: "https://github.com/UCSB-NLP-Chang/llm_uncertainty"
     selected: y
 
-  - title: "Certified Robustness for Large Language Models with Self-Denoising"
-    authors: "Zhen Zhang, Guanhua Zhang, <b>Bairu Hou</b>, Wenqi Fan, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang"
+  - title: "Advancing the Robustness of Large Language Models through Self-Denoised Smoothing"
+    authors: "Jiabao Ji, <b>Bairu Hou</b>, Zhen Zhang, Guanhua Zhang, Wenqi Fan, Qing Li, Yang Zhang, Gaowen Liu, Sijia Liu, Shiyu Chang"
     venue: "NAACL'24"
-    paper_pdf: "https://arxiv.org/abs/2307.07171"
+    paper_pdf: "https://arxiv.org/abs/2404.12274"
     code: "https://github.com/UCSB-NLP-Chang/SelfDenoise"
     selected: y
 
