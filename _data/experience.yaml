@@ -25,3 +25,8 @@ experiences:
   title: "B.S. Student"
   subtitle: "School of Economics and Management"
   category: "school"
+
+- place: "Apple Machine Learning Intern"
+  time: "2023 Summer"
+  title: "Research Intern"
+  category: "work"
