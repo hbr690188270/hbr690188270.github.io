@@ -1,4 +1,9 @@
 experiences:
+- place: "Apple Machine Learning Intern"
+  time: "2024 Summer"
+  title: "Research Intern"
+  category: "work"
+
 - place: "UC Santa Barbara"
   time: "2021 - now"
   title: "Ph.D. Student"
@@ -25,8 +30,3 @@ experiences:
   title: "B.S. Student"
   subtitle: "School of Economics and Management"
   category: "school"
-
-- place: "Apple Machine Learning Intern"
-  time: "2024 Summer"
-  title: "Research Intern"
-  category: "work"
