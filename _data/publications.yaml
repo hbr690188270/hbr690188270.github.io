@@ -1,4 +1,11 @@
 papers:
+  - title: "A Probabilistic Framework for LLM Hallucination Detection via Belief Tree Propagation"
+    authors: "<b>Bairu Hou</b>, Yang Zhang, Jacob Andreas, Shiyu Chang"
+    venue: "Arxiv"
+    paper_pdf: "https://arxiv.org/abs/2406.06950"
+    code: "https://github.com/UCSB-NLP-Chang/BTProp"
+    selected: y
+
   - title: "Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing"
     authors: "Jiabao Ji<sup>‡</sup>, <b>Bairu Hou</b><sup>‡</sup>, Alexander Robey<sup>‡</sup>, George J Pappas, Hamed Hassani, Yang Zhang, Eric Wong, Shiyu Chang"
     venue: "Arxiv"
