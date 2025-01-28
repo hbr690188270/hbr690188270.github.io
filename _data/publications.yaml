@@ -7,7 +7,7 @@ papers:
 
   - title: "A Probabilistic Framework for LLM Hallucination Detection via Belief Tree Propagation"
     authors: "<b>Bairu Hou</b>, Yang Zhang, Jacob Andreas, Shiyu Chang"
-    venue: "Arxiv"
+    venue: "NAACL'25"
     paper_pdf: "https://arxiv.org/abs/2406.06950"
     code: "https://github.com/UCSB-NLP-Chang/BTProp"
     selected: y
