@@ -3,6 +3,7 @@ papers:
     authors: "<b>Bairu Hou</b>, Qibin Chen, Jianyu Wang, Guoli Yin, Chong Wang, Nan Du, Ruoming Pang, Shiyu Chang, Tao Lei"
     venue: "ICML'25"
     paper_pdf: "https://arxiv.org/abs/2501.02086"
+    code: "https://github.com/MiicheYang/IFPruning-Implementation"
     selected: y
 
   - title: "ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning"
