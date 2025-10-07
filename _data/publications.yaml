@@ -7,7 +7,7 @@ papers:
     selected: y
 
   - title: "KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse"
-    authors: "Jingbo Yangsup>‡</sup>, <b>Bairu Hou</b>sup>‡</sup>, Wei Wei, Yujia Bao, Shiyu Chang"
+    authors: "Jingbo Yang<sup>‡</sup>, <b>Bairu Hou</b><sup>‡</sup>, Wei Wei, Yujia Bao, Shiyu Chang"
     venue: "NeurIPS'25"
     paper_pdf: "https://arxiv.org/abs/2502.16002"
     code: "https://github.com/UCSB-NLP-Chang/KVLink"
